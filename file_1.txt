@@ -3,4 +3,13 @@ merged from first_branch
 change from master
 change for second_branch
 another change in second_branch
+
+Merge with on-going-branch:
+<<<<<<< HEAD
 change in master
+=======
+first change on on-going-branch
+another change on on-going-branch
+>>>>>>> on-going-branch
+
+end of merge
