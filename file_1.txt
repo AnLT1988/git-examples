@@ -5,3 +5,6 @@ change for second_branch
 another change in second_branch
 first change on on-going-branch
 another change on on-going-branch
+
+
+change post-merge into master
