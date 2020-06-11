@@ -10,9 +10,19 @@ change in master
 =======
 first change on on-going-branch
 another change on on-going-branch
+<<<<<<< HEAD
 >>>>>>> on-going-branch
 
 end of merge
 
 
 another change after merge on master
+=======
+
+
+change post-merge into master
+second change post-merge
+>>>>>>> on-going-branch
+
+
+you can see how mess up the second merge
