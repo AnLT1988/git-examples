@@ -13,3 +13,6 @@ another change on on-going-branch
 >>>>>>> on-going-branch
 
 end of merge
+
+
+another change after merge on master
