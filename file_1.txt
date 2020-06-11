@@ -3,13 +3,35 @@ merged from first_branch
 change from master
 change for second_branch
 another change in second_branch
+
+Merge with on-going-branch:
+<<<<<<< HEAD
+change in master
+=======
 first change on on-going-branch
 another change on on-going-branch
+<<<<<<< HEAD
+>>>>>>> on-going-branch
+
+end of merge
+
+
+another change after merge on master
+=======
 
 
 change post-merge into master
 second change post-merge
+<<<<<<< HEAD
 
 
 change after post-post-merge. you know, just continue with my stuff, screw the
 other's
+=======
+>>>>>>> on-going-branch
+
+
+you can see how mess up the second merge
+>>>>>>> master
+
+wow, such a mess, but that's ok
